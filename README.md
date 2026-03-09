@@ -30,4 +30,4 @@ A map visualization highlighting countries with the highest product demand.
 - Data Visualization
 
 ## Dashboard Preview
-![Demand Map](Demand across countries.png)
+![Demand Map](Demand-across-countries.png)
